@@ -1,0 +1,1 @@
+{"name":"Local: SAW","url":"d:\\Tin Hoc\\ntucoder\\SAW.cpp","tests":[{"id":1735985743366,"input":"5\n1 7 9 8 12\n1\n5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Tin Hoc\\ntucoder\\SAW.cpp","group":"local","local":true}

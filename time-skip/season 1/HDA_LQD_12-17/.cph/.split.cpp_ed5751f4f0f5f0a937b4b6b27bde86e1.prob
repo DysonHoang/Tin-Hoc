@@ -1,0 +1,1 @@
+{"name":"Local: split","url":"d:\\Tin Hoc\\time-skip\\HDA_LQD_12-17\\split.cpp","tests":[{"id":1734425210425,"input":"3 2 2 \nabc\nab","output":"2"},{"id":1734426405977,"input":"9 12 4\nbbaaababb\nabbbabbaaaba","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Tin Hoc\\time-skip\\HDA_LQD_12-17\\split.cpp","group":"local","local":true}

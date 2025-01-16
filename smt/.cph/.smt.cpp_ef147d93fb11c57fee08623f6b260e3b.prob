@@ -1,0 +1,1 @@
+{"name":"Local: smt","url":"d:\\Tin Hoc\\smt\\smt.cpp","tests":[{"id":1736579631230,"input":"12","output":"Hello World"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Tin Hoc\\smt\\smt.cpp","group":"local","local":true}

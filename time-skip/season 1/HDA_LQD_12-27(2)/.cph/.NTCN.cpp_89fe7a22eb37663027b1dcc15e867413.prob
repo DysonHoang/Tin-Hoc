@@ -1,0 +1,1 @@
+{"name":"Local: NTCN","url":"d:\\Tin Hoc\\time-skip\\HDA_LQD_12-27(2)\\NTCN.cpp","tests":[{"id":1735378410075,"input":"5\n2 45 676 4 66","output":"674"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Tin Hoc\\time-skip\\HDA_LQD_12-27(2)\\NTCN.cpp","group":"local","local":true}
